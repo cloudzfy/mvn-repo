@@ -77,6 +77,9 @@
 		<artifactId>jchardet</artifactId>
 		<version>1.1</version>
 	</dependency>
+    <dependency>
+        <groupId>activesoap</groupId>
+        <artifactId>jaxb-xalan</artifactId>
+        <version>1.5</version>
   </dependencies>
-            
 </project>
